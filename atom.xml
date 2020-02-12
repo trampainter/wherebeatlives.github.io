@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wherebeatlives.github.io</id>
-    <title></title>
-    <updated>2020-02-12T16:24:14.036Z</updated>
+    <title>no</title>
+    <updated>2020-02-12T16:26:32.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wherebeatlives.github.io"/>
     <link rel="self" href="https://wherebeatlives.github.io/atom.xml"/>
+    <subtitle>no</subtitle>
     <logo>https://wherebeatlives.github.io/images/avatar.png</logo>
     <icon>https://wherebeatlives.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, </rights>
+    <rights>All rights reserved 2020, no</rights>
     <entry>
         <title type="html"><![CDATA[生如夏花]]></title>
         <id>https://wherebeatlives.github.io/post/sheng-ru-xia-hua</id>
